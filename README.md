@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+アプリケーションを完成させよう2の課題3 bookers2の制作です。
